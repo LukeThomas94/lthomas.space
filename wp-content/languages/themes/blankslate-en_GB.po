@@ -1,0 +1,120 @@
+# Translation of Themes - BlankSlate in English (UK)
+# This file is distributed under the same license as the Themes - BlankSlate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-09 04:53:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - BlankSlate\n"
+
+#. Theme Name of the plugin/theme
+msgid "BlankSlate"
+msgstr "BlankSlate"
+
+#: tag.php:4
+msgid "Tag Archives: "
+msgstr "Tag Archives: "
+
+#: search.php:17
+msgid "Sorry, nothing matched your search. Please try again."
+msgstr "Sorry, nothing matched your search. Please try again."
+
+#: search.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: search.php:5
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: nav-below.php:4
+msgid "newer %s"
+msgstr "newer %s"
+
+#: nav-below.php:3
+msgid "%s older"
+msgstr "%s older"
+
+#: functions.php:42
+msgid "Sidebar Widget Area"
+msgstr "Sidebar Widget Area"
+
+#: functions.php:12
+msgid "Main Menu"
+msgstr "Main menu"
+
+#: footer.php:5
+msgid " Theme By: %1$s."
+msgstr " Theme By: %1$s."
+
+#: footer.php:5
+msgid "%1$s %2$s %3$s. All Rights Reserved."
+msgstr "%1$s %2$s %3$s. All Rights Reserved."
+
+#: entry-footer.php:5
+msgid "Comments"
+msgstr "Comments"
+
+#: entry-footer.php:2
+msgid "Categories: "
+msgstr "Categories:"
+
+#: comments.php:31
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments.php:31
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: category.php:4
+msgid "Category Archives: "
+msgstr "Category Archives: "
+
+#: author.php:5
+msgid "Author Archives"
+msgstr "Author Archives"
+
+#: attachment.php:6
+msgid "Return to %s"
+msgstr "Return to %s"
+
+#: archive.php:8
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:7
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: archive.php:6
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: archive.php:5
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: 404.php:8
+msgid "Nothing found for the requested page. Try a search instead?"
+msgstr "Nothing found for the requested page. Try a search instead?"
+
+#: 404.php:5
+msgid "Not Found"
+msgstr "Not Found"
+
+#. Author URI of the plugin/theme
+msgid "http://tidythemes.com/"
+msgstr "http://tidythemes.com/"
+
+#. Author of the plugin/theme
+msgid "TidyThemes"
+msgstr "TidyThemes"
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpress.org/themes/blankslate"
+msgstr "http://wordpress.org/themes/blankslate"
